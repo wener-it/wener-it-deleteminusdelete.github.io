@@ -1,0 +1,36 @@
+﻿main:
+  - title: "Start"
+    url: /
+  - title: "Portfolio"
+    url: /portfolio/
+  
+docs:
+  - title: Start
+    children:
+     - title: "Start"
+       url: /
+     - title: "Portfolio"
+       url: /portfolio/
+     - title: "Kontakt"
+       url: /kontakt/
+   
+contacts: 
+  - title: Portfolio
+    url: /portfolio/
+  - title: Kontakt
+    url: /kontakt/
+  - title: Rechtliches
+    children: 
+     - title: Impressum
+       url: /impressum/
+     - title: "AGB"
+       url: /agb/	   
+foo:
+  - title: "Link 1 Title"
+    url: /kontakt/
+  - title: "Link 2 Title"
+    url: http://wener.it
+  - title: "Link 3 Title"
+    url: /portfolio/
+  - title: "Link 4 Title"
+    url: /

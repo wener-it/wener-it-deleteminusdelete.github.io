@@ -1,0 +1,50 @@
+.page__footer    ul li,.page__footer    ol li { 
+margin-bottom: 0.0em; 
+}
+
+.impressum__contact {
+    border: 0px;
+    border-collapse: collapse;
+}
+
+.include__address {
+	list-style: none;	 
+}
+
+.include__address li {
+	position:relative;
+    left: -42px;
+}
+
+
+.page__footer li {
+	list-style:none;
+	}
+.page__footer li:first-child{color:#ff0000}
+
+.page__footer .social-icons ul {
+     margin: 0;
+     padding: 0;
+}
+.page__footer .social-icons  li {
+     float: left;
+     list-style: none;
+	 position:relative;
+      left: -42px;
+}
+  
+.page__footer__rechtliches ul {
+margin-bottom: 0.5em; 
+     margin: 0;
+     padding: 0;
+}
+.page__footer__rechtliches li {
+	
+	position:relative;
+     color:#ff0000; 
+	 float: left;
+     list-style: none;	 
+	  margin-right: 10px;
+     padding: 0px 10px;
+	 margin-top: 0.0em; 
+}
