@@ -16,6 +16,11 @@ margin-bottom: 0.0em;
     left: -42px;
 }
 
+.page__footer .include__address li {
+	position:relative;
+    left: 0px;
+}
+
 
 .page__footer li {
 	list-style:none;
