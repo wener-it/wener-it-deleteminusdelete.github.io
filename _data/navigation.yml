@@ -1,8 +1,5 @@
 ﻿main:
-  - title: "Start"
-    url: /
-  - title: "Portfolio"
-    url: /portfolio/
+
   
 docs:
   - title: Start
