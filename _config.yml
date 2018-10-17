@@ -14,7 +14,7 @@ title_separator          : "@"
 title                    : "wener.it"
 name                     : "Thomas Wener"
 description              : "Onlineauftritt der IT-Beratung und Softwareentwicklung Thomas Wener"
-url                      : https://wener.it 
+url                      : //wener.it 
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "wener-it/wener-it.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png" for posts
