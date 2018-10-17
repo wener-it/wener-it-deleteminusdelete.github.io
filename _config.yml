@@ -84,15 +84,24 @@ analytics:
 
 # Site Author
 author:
-  name             : "Thomas&nbsp;Wener"
+  #name             : "Thomas&nbsp;Wener"
+  #avatar           : "/assets/images/bio-photo.jpg"
+  #bio              : "IT-Beratung und Softwareentwicklung"
+  #location         : 
+  #email            : 
+  #street           : Fichtenstr.&nbsp;13
+  #city             : 65329&nbsp;Hohenstein
+  #country          : Germany
+  #phone            : +49&nbsp;(0)1579&nbsp;2352365
+  name 				: "Name&nbsp;name"
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : "IT-Beratung und Softwareentwicklung"
   location         : 
   email            : 
-  street           : Max-Planck-Str.&nbsp;44
-  city             : 04105&nbsp;Leipzig
+  street           : street
+  city             : city
   country          : Germany
-  phone            : +49&nbsp;(0)1579&nbsp;2352365
+  phone            : +49&nbsp;(0)1579
   uri              : 
   bitbucket        :
   codepen          : 
@@ -112,10 +121,10 @@ author:
   stackoverflow    : # "123456/username" # (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          : wener_it
+  twitter          : #wener_it
   vine             :
   weibo            :
-  xing             : Thomas_Wener
+  xing             : #Thomas_Wener
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
 
 
